@@ -1,1 +1,1 @@
-# emtipp.github.io
+Website for Michl's Tippspiel.
